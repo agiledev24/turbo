@@ -1,0 +1,20 @@
+{
+  "name": "ui-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18",
+    "typescript": "latest",
+    "@radix-ui/react-alert-dialog": "^1.0.5",
+    "class-variance-authority": "^0.7.0",
+    "@radix-ui/react-slot": "^1.0.2",
+    "lucide-react": "^0.314.0",
+    "@radix-ui/react-menubar": "^1.0.4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../vpm-express-server"
+		},
+		{
+			"path": "../../../../vpm1/vpm-flask-backend"
+		}
+	],
+	"settings": {}
+}
